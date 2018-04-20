@@ -1,1 +1,1 @@
-# web
+# RGB Guessing Game
